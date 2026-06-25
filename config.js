@@ -1,2 +1,2 @@
 console.log("config.git");
-console.log("version 2")
+console.log("version 1")
